@@ -15,6 +15,12 @@ Project Overview:
   Add interactive visualizations and filtering capabilities
   Allow users to explore the data at various levels of granularity
 
+  
+![grocery_store_db](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis/assets/40953068/5e4d0d82-d25a-43a5-94e6-4e053b70e9a2)
+
+
+  
+
 - Data Analysis:
 
   Provide valuable information to business entities
@@ -35,3 +41,6 @@ Project Overview:
 
   Key visualizations 
   Interactivity allows users to drill down into specific regions, product categories, and time frames.
+
+
+
