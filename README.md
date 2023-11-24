@@ -7,28 +7,30 @@ To contribute to the success of a business by utilizing data analysis techniques
 Project Overview:
 The project consists of four main parts:
 
-Dashboard Creation:
+-Dashboard Creation:
 
 Identify Key Performance Indicators (KPIs)
 Design an intuitive, visually appealing dashboard
 Add interactive visualizations and filtering capabilities
 Allow users to explore the data at various levels of granularity
 
-Data Analysis:
+-Data Analysis:
 
 Provide valuable information to business entities
 Visualize sales strategies' effectiveness through charts and visualizations
-Sales Forecasting:
+
+-Sales Forecasting:
 
 Leverage historic data
 Apply time series analysis techniques
 Generate sales forecasts for the next 15 days
 Actionable Insights and Recommendations:
 
-Share valuable insights
+-Share valuable insights
 Provide actionable information for strategic decision-making
 Support the supermarket's goals for growth, efficiency, and customer satisfaction
-Dashboard Highlights:
 
-Key visualizations include [list the key visualizations].
+-Dashboard Highlights:
+
+Key visualizations 
 Interactivity allows users to drill down into specific regions, product categories, and time frames.
