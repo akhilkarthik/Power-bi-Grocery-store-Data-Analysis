@@ -33,6 +33,10 @@ Project Overview:
   Generate sales forecasts for the next 15 days
   Actionable Insights and Recommendations:
 
+
+  ![forcast](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis/assets/40953068/4a98537c-cfb9-4d22-adcf-34cdc693d6ea)
+
+
 - Share valuable insights
   Provide actionable information for strategic decision-making
   Support the supermarket's goals for growth, efficiency, and customer satisfaction
